@@ -1,5 +1,5 @@
-🍽️ Flavorly
-Flavorly is a simple, responsive web application that allows users to search for recipes by name or get a random recipe using TheMealDB API. It displays recipe cards, detailed ingredients, and cooking instructions in a stylish modal.
+🍽️ Flavorly <br>
+Flavorly is a simple, responsive web application that allows users to search for recipes by name or get a random recipe using TheMealDB API. It displays recipe cards, detailed ingredients, and cooking instructions in a stylish model.
 
 🚀 Features
 🔍 Search recipes by name (e.g., "chicken", "pasta")
